@@ -10,6 +10,7 @@ The game gives you the opportunity to add players:
 <img width="517" alt="2" src="https://user-images.githubusercontent.com/58684695/80863255-a2e8ed80-8c83-11ea-8b6b-fc5cfdf4b16e.png">
 
 To enter the game you must select a player from the list of players:
+
 <img width="517" alt="4" src="https://user-images.githubusercontent.com/58684695/80863244-982e5880-8c83-11ea-8ee4-b6452cd92cc2.png">
 
 The game gives you the opportunity to choose from several categories to guess words. The game will always open on all categories.
