@@ -1,6 +1,6 @@
 # Hangman-Game
 
-I made the Hangman game using WPF (structured on MVVM and using Data Binding)
+I made the Hangman game using C# and WPF (structured on MVVM and using Data Binding)
 
 The main page looks like this:
 
